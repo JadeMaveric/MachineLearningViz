@@ -1,5 +1,6 @@
-# Machine Learning Viz
+# Machine Learning Viz [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jademaveric/machinelearningviz/main/main.py)
 Interactive Streamlit Visualisation for a Machine Learning Algorithms I learn in college
+
 
 ## Usage instructions
 1. From the sidebar, select a visualisation get started
@@ -7,13 +8,13 @@ Interactive Streamlit Visualisation for a Machine Learning Algorithms I learn in
 3. Profit!
 
 ## Current Algorithmns
-[ ] Find-S
-[ ] Candidate Elimination
-[x] Decision Trees
-[x] Naive Bayes (Discrete)
-[ ] Naive Bayes (Continuous)
-[ ] Perceptron
-[ ] Bayesian Networks
+- [ ] Find-S
+- [ ] Candidate Elimination
+- [x] Decision Trees
+- [x] Naive Bayes (Discrete)
+- [ ] Naive Bayes (Continuous)
+- [ ] Perceptron
+- [ ] Bayesian Networks
 
 ## Dev Environment Setup
 1. Clone this repo
